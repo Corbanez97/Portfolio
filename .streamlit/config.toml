@@ -1,0 +1,9 @@
+#.streamlit/config.toml
+[deprecation]
+showPyplotGlobalUse = false
+
+[theme]
+base="light"
+primaryColor="#f63366"
+textColor="#595d71"
+font="serif"
